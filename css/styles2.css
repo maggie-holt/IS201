@@ -1,0 +1,38 @@
+body{
+    background-color: lavenderblush;
+}
+
+.header{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: palevioletred;
+    line-height: 100px;
+}
+
+
+
+p{
+    text-align: left;
+    color: palevioletred;
+}
+
+ol{
+    float: left;
+}
+
+img{
+    display: block;
+    width: 20%;
+    float: right;
+    margin-right: 350px;
+}
+
+.youtube{
+   position:relative;
+   margin-top: 25%;
+}
+
+footer{
+    text-align: center;
+    color: palevioletred;
+}
